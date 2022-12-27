@@ -2,7 +2,7 @@
 <code>👷 Speciality: Software engineer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
-<code>🧑‍💻 Languages: JavaScript, Python, C#</code>
+<code>🧑‍💻 Languages: JavaScript, Kotlin, Python, C#, C++</code>
 <code>💬 telegram: [@dnlglts](https://telegram.me/dnlglts)</code>
 <code>📫 [goletsdan@gmail.com](mailto:goletsdan@gmail.com)</code>
 
