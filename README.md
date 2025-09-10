@@ -1,8 +1,8 @@
-<code>🎓 Student: KPI / IM-12</code>
-<code>👷 Speciality: Software engineer</code><br>
+<code>🎓 Student: KPI / FICE / IM-51mp</code>
+<code>👷 Speciality: Software Engineer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
-<code>🧑‍💻 Languages: JavaScript, Java, Python, C#, C++</code>
+<code>🧑‍💻 Languages: C#, C++, Java, JavaScript</code>
 <code>💬 telegram: [@dnlglts](https://telegram.me/dnlglts)</code>
 <code>📫 [goletsdan@gmail.com](mailto:goletsdan@gmail.com)</code>
 
